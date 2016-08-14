@@ -14,3 +14,6 @@
 .at|whois.nic.at|nothing found|1|72|€|https://www.nic.at/en/index/
 .audio|whois.uniregistry.net|object does not exist|1|13.99|$|https://www.101domain.com/audio.htm
 .auto|whois.uniregistry.net|object does not exist|1|2.488|$|https://www.namecheap.com/domains/registration/results.aspx?domain={1}.{2}
+.be|whois.dns.be|AVAILABLE|1|9.99|$|https://www.101domain.com/be.htm
+.best|whois.nic.best|object does not exist|1|99.99|$|http://www.enom.com/domains/search-results?query={1}.{2}
+.bet|whois.afilias.net|NOT FOUND|1|13.99|$|https://www.101domain.com/bet.htm
